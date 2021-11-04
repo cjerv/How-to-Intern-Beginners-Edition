@@ -32,3 +32,11 @@ Have some experience setting up and running a Terra node
 
 https://www.youtube.com/watch?v=2lKAvltKX6w
 
+
+![2021-11-04 (7)](https://user-images.githubusercontent.com/93710516/140307137-dd569b3d-81ce-4b28-9d9e-94bc5b172a69.png)
+
+<div style="page-break-after: always;"></div>
+
+Next
+
+
