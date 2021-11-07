@@ -51,14 +51,15 @@ Chinese New Year 2020, was when I first realized that my aviation career might b
 [See photo][df3] - Not sure how to insert a photo inline from GitHub into the document. [Syntax Guide for later][df4] (There is a time limit I'm attempting to honor)
 figured it out...
 
-![Uploading IMG_4619.jpg…]()
+![IMG_4619](https://user-images.githubusercontent.com/93710516/140651712-3d944161-a83d-4e2d-ae9f-fcb62b13ca75.jpg)
+
 
 
 Shortly after Chinese New Year, the Hong Kong public stopped travelling due to memories of SARS, resulting in Cathay and Dragonair parking aircraft and grounding many of its pilots.
 
 After wearing out my Xbox controller playing COD, I began devoting more time to investing properly, trying to learn how to trade futures [(Thanks Sven)][df6], trying to expand my Cantonese, and consuming [Real Vision][df5] content.
 
-My good friend on similar investing journey suggested we buy some bitcoin from a local OTC exchange.  I decided to follow his lead and got my first chunk of BTC in the $6k range.  Thanks Sean!
+A good friend on similar investing journey suggested we buy some bitcoin from a local OTC exchange.  I decided to follow his lead and got my first chunk of BTC in the $6k range.  Thanks Sean!
 
 ## The Crypto Rabbit Hole - Short Version
 
@@ -147,21 +148,23 @@ Pull Request again 2nd version:
 
 Register your Terra validator
 pic 1
-![1](https://user-images.githubusercontent.com/93710516/140650582-a74b2bd5-5e5f-40f4-a875-c304faa9e82e.png)
+
+![1](https://user-images.githubusercontent.com/93710516/140651649-ff4e4857-9890-45aa-8d3a-ddd7c178ad35.png)
 
 Edit this page on GitHub link
 pic 2
-![2](https://user-images.githubusercontent.com/93710516/140650591-e398a1cd-e318-4ba4-8994-b233e0659deb.png)
+![2](https://user-images.githubusercontent.com/93710516/140651663-ba820a0f-6442-4acc-af58-f664f7b2acd1.png)
+
 
 terra-money/docs
 pic 3
-![3](https://user-images.githubusercontent.com/93710516/140650597-f4576ddd-47c4-41bb-aa0e-e0c7de2e9472.png)
+
+![3](https://user-images.githubusercontent.com/93710516/140651684-5592084e-c666-47a6-80f8-fe3d8214b31e.png)
 
 Fork into my GIT
 
 4
-
-![2021-11-07 (11)](https://user-images.githubusercontent.com/93710516/140650640-3ddbf133-a14a-4e12-b48d-3917d2315feb.png)
+![2021-11-07 (11)](https://user-images.githubusercontent.com/93710516/140651690-c4ffe9ea-570c-40bd-8e04-43bb7437d069.png)
 
 
 following a link to lcd(11)
