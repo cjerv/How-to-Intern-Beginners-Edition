@@ -19,6 +19,9 @@ A brief story of how I went from flying to writing this article.
 - Moved to Hong Kong and started flying for Cathay Pacific
 - I'm currently a Boeing 747 Captain, and I previously flew Airbus A330, A340 and Boeing 777 aircraft.
 
+![IMG_4618](https://user-images.githubusercontent.com/93710516/140650922-28fd16cc-21e2-4b09-a0e9-4819dbf80839.jpg)
+
+
 Flying was something that I wanted to do as a young child, so I am blessed to have been able to achieve that dream.
 
 As [Leonardo Da Vinci] was quoted, and found on the [Pilot Mall Blog][df2]
@@ -46,6 +49,9 @@ I am unabashedly copying the landing page from [Dillinger][df2].
 Chinese New Year 2020, was when I first realized that my aviation career might be derailed, more specifically January 27th.  Prior to heading off to Singapore, Bangkok, and Singapore, for a 4 night 3 day all expenses paid tour of SE Asia, I recall my wife handing me face masks and insisting that I wear them when walking though the busy airport terminals. I choose to politely thank her, put the masks in my pocket and forget about them. Once we got into the terminal and mixed with many coughing transit passengers heading to Singapore for the holiday, I quickly change my thinking and put on the mask.
 
 [See photo][df3] - Not sure how to insert a photo inline from GitHub into the document. [Syntax Guide for later][df4] (There is a time limit I'm attempting to honor)
+figured it out
+![EA160132-AA76-486E-AE83-E7767308735E](https://user-images.githubusercontent.com/93710516/140650682-1aa9e47e-a915-43ba-8e72-e372f37a025c.JPG)
+
 
 Shortly after Chinese New Year, the Hong Kong public stopped travelling due to memories of SARS, resulting in Cathay and Dragonair parking aircraft and grounding many of its pilots.
 
@@ -139,12 +145,23 @@ Pull Request again 2nd version:
 
 Register your Terra validator
 pic 1
+![1](https://user-images.githubusercontent.com/93710516/140650582-a74b2bd5-5e5f-40f4-a875-c304faa9e82e.png)
+
 Edit this page on GitHub link
 pic 2
+![2](https://user-images.githubusercontent.com/93710516/140650591-e398a1cd-e318-4ba4-8994-b233e0659deb.png)
+
 terra-money/docs
 pic 3
-fork into my Git
+![3](https://user-images.githubusercontent.com/93710516/140650597-f4576ddd-47c4-41bb-aa0e-e0c7de2e9472.png)
+
+Fork into my GIT
+
 4
+
+![2021-11-07 (11)](https://user-images.githubusercontent.com/93710516/140650640-3ddbf133-a14a-4e12-b48d-3917d2315feb.png)
+
+
 following a link to lcd(11)
 (12)
 (13)
