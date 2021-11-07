@@ -49,8 +49,9 @@ I am unabashedly copying the landing page from [Dillinger][df2].
 Chinese New Year 2020, was when I first realized that my aviation career might be derailed, more specifically January 27th.  Prior to heading off to Singapore, Bangkok, and Singapore, for a 4 night 3 day all expenses paid tour of SE Asia, I recall my wife handing me face masks and insisting that I wear them when walking though the busy airport terminals. I choose to politely thank her, put the masks in my pocket and forget about them. Once we got into the terminal and mixed with many coughing transit passengers heading to Singapore for the holiday, I quickly change my thinking and put on the mask.
 
 [See photo][df3] - Not sure how to insert a photo inline from GitHub into the document. [Syntax Guide for later][df4] (There is a time limit I'm attempting to honor)
-figured it out
-![EA160132-AA76-486E-AE83-E7767308735E](https://user-images.githubusercontent.com/93710516/140650682-1aa9e47e-a915-43ba-8e72-e372f37a025c.JPG)
+figured it out...
+
+![Uploading IMG_4619.jpg…]()
 
 
 Shortly after Chinese New Year, the Hong Kong public stopped travelling due to memories of SARS, resulting in Cathay and Dragonair parking aircraft and grounding many of its pilots.
@@ -81,7 +82,8 @@ My good friend on similar investing journey suggested we buy some bitcoin from a
  
 ## The Tweet and Job Description
 
-(insert Pic)
+(insert Pic)![PNG image](https://user-images.githubusercontent.com/93710516/140651160-9aaf4d96-6278-48b2-b8aa-55289ea28ed6.png)
+
 
 Role Description:
 
