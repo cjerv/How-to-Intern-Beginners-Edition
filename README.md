@@ -222,14 +222,15 @@ Colin
 - [Research - Lets try Bing for once - "terra node setup"](https://www.bing.com/search?q=terra+node+setup&cvid=dc9794549fc645829da01a33c0aa15e1&aqs=edge..69i57.4079j0j1&pglt=299&FORM=ANNTA1&PC=NMTS)
 - [More "How to run a Validator - Event Tornado"](https://eventornado.com/submission/terra-node-setup#ideas)
 - [Even more "How to run a validator - Medium"](https://medium.com/block42-blockchain-company/how-to-setup-a-terra-luna-validator-node-860d8ea7aea2)
-- [Terra Bites - How to Spin Up a Node on Terra: Developer Deep Dives Vol. 001](https://youtu.be/2lKAvltKX6w) 
+- [Terra Bites - How to Spin Up a Node on Terra: Developer Deep Dives Vol. 001](https://youtu.be/2lKAvltKX6w)
+- [Medium - Everything you should know about validators on Terra](https://medium.datadriveninvestor.com/everything-you-should-know-about-validators-on-terra-bcaac44d530)
+- [Medium - How to pick a Validator in the Terra ecosystem](https://mlolalime.medium.com/how-to-pick-a-validator-in-the-terra-luna-ecosystem-fce4c9ea7826)
 - [GitHub - About pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 - [Dillinger](https://dillinger.io/)
 - [Standard Notes](https://standardnotes.com/download/windows) try getting iOs notes from an iPhone to a Windows laptop while at a hotel in LA...
 - [Getting started in Markdown](https://www.markdownguide.org/getting-started/) - Thanks Steve P
 - [Markdown syntax documentation - daringfireball.net](https://daringfireball.net/projects/markdown/syntax) (for later)
-
-
+- 
 
 ### Links for later
 
