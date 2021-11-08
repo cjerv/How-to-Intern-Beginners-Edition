@@ -270,7 +270,7 @@ MIT
    [df8]: <https://github.com/terra-money/docs/pull/153>
    [df9]: <https://docs.terra.money/How-to/Manage-a-Terra-validator/Set-up-validator.html#requirements>
    [df10]: <https://github.com/terra-money/validator-profiles/blob/master/validators/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v/README.md>
-   [df11]: <https://youtu.be/_NrSWLQsDL4
+   [df11]: <https://youtu.be/_NrSWLQsDL4>
    [df12]: <https://github.com/cjerv/Validator-Profile/blob/769632f2d5d2f390d3b56499d72f51742912a90c/README.md>
    
    
