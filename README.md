@@ -163,7 +163,10 @@ In your own file, paste the data and edit! Easy
 You could also follow the detailed steps listed at the bottom of this page - [github.com/terra-money/validator-profiles][df10]
 
 
-[validator profile - Let's Be Legends][df12] 
+
+[validator profile - Lets Be Legends][df12]
+
+
 
 ![2021-11-09 (10)](https://user-images.githubusercontent.com/93710516/140794454-4c150269-b34c-474b-97a8-83cfecfc4f92.png)
 
