@@ -164,7 +164,9 @@ You could also follow the detailed steps listed at the bottom of this page - [gi
 
 
 [validator profile - Let's Be Legends][df12] 
+
 ![2021-11-09 (10)](https://user-images.githubusercontent.com/93710516/140794454-4c150269-b34c-474b-97a8-83cfecfc4f92.png)
+
 Still need to figure out how to resize photos...
 
 To do list:
