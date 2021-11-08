@@ -55,7 +55,7 @@ figured it out...
 
 
 
-Shortly after Chinese New Year, the Hong Kong public stopped travelling due to memories of SARS, resulting in Cathay and Dragonair parking aircraft and grounding many of its pilots.
+Shortly after Chinese New Year, the Hong Kong public stopped travelling due to memories of SARS, and the government imposing restictions, resulting in Cathay and Dragonair parking aircraft and grounding many of its pilots and cabin crew.
 
 After wearing out my Xbox controller playing COD, I began devoting more time to investing properly, trying to learn how to trade futures [(Thanks Sven)][df6], trying to expand my Cantonese, and consuming [Real Vision][df5] content.
 
@@ -134,46 +134,45 @@ is beyond me!
 
 I can't see there being any "good first issues" for me anytime soon.  I've also probably mentally miscast a Steven from TerraLabs as an Intern candidate as well.
 
-## Pull Request
-I'm learning as I go here, so what better way then to use my own GitHub document.
+## The Pull Request
 
-On the Terra Docs webpage [ DOCS // HOW TO // REGISTER YOUR TERRA VALIDATOR](https://docs.terra.money/How-to/Manage-a-Terra-validator/Set-up-valid[ator.html#confirm-your-validator-is-active)  I would create a pull request by following the link [Edit this page on GitHub](https://github.com/terra-money/docs/edit/main/docs/How-to/Manage-a-Terra-validator/Set-up-validator.md) which brings information into my own  new page in GitHub.
+V1 and V2 were far too complicated, messy, and amateur. This whole "learning as you go" program is probably wearing out anyone who has a clue what they are doing...
 
-(to do  list)
-- read other pull requests
-- find a suggested change to make
-- document the change and follow the tasks in the email.
+So back to YouTube to find a less complicated explaination of a Pull Request.
 
-Pull Request again 2nd version:
+[Youtube - The Coding Train - 1.3: Forks and Pull Requests - Git and GitHub for Poets][df11]
 
-Register your Terra validator
-pic 1
-
-![1](https://user-images.githubusercontent.com/93710516/140651649-ff4e4857-9890-45aa-8d3a-ddd7c178ad35.png)
-
-Edit this page on GitHub link
-pic 2
-![2](https://user-images.githubusercontent.com/93710516/140651663-ba820a0f-6442-4acc-af58-f664f7b2acd1.png)
+![2021-11-08 (1)](https://user-images.githubusercontent.com/93710516/140792213-4b0c77f7-dce4-49d6-81a5-5cbaf0f03880.png)
 
 
-terra-money/docs
-pic 3
+### The Pull Request V3... 
 
-![3](https://user-images.githubusercontent.com/93710516/140651684-5592084e-c666-47a6-80f8-fe3d8214b31e.png)
+I've decided to setup a Validator profile
 
-Fork into my GIT
+From the Terra Money Validator profiles link [github.com/terra-money/validator-profiles][df10] select a profile that you want to copy. 
+I've choosen the Terra-Firma page.
+Select the "copy raw contents" link
 
-4
-![2021-11-07 (11)](https://user-images.githubusercontent.com/93710516/140651690-c4ffe9ea-570c-40bd-8e04-43bb7437d069.png)
+![2021-11-09 (6)](https://user-images.githubusercontent.com/93710516/140789271-8477b655-07ff-4224-8cb9-e17994269610.png)
+
+In your own file, paste the data and edit! Easy
 
 
-following a link to lcd(11)
-(12)
-(13)
-we can see the changes to the document 
-using the split view we can compare the changes with the original.
-15
+![2021-11-09 (9)](https://user-images.githubusercontent.com/93710516/140791888-ad235e19-0cc2-4c35-84b3-2b55b175d356.png)
 
+You could also follow the detailed steps listed at the bottom of this page - [github.com/terra-money/validator-profiles][df10]
+
+
+[validator profile - Let's Be Legends][df12] 
+![2021-11-09 (10)](https://user-images.githubusercontent.com/93710516/140794454-4c150269-b34c-474b-97a8-83cfecfc4f92.png)
+Still need to figure out how to resize photos...
+
+To do list:
+1) Purchase a domain name from gandi.net - wagbl.io is available for $32
+2) Set up a custom domain email address in Protonmail
+3) get a twitter handle with the new email info@wagbl.io
+4) get a discord handle
+5) Setup a medium page
 
 
 
@@ -225,6 +224,8 @@ Colin
 - [Getting started in Markdown](https://www.markdownguide.org/getting-started/) - Thanks Steve P
 - [Markdown syntax documentation - daringfireball.net](https://daringfireball.net/projects/markdown/syntax) (for later)
 
+
+
 ### Links for later
 
 Some of the original links from Dillinger.io that I'll leave for future reference.
@@ -240,8 +241,6 @@ Some of the original links from Dillinger.io that I'll leave for future referenc
 
 And of course Dillinger itself is open source with a [public repository][dill]
  on GitHub.
-
-
 
 
 
@@ -265,7 +264,9 @@ MIT
    [df7]: <https://twitter.com/terra_money/status/1450264263629500419?s=21>
    [df8]: <https://github.com/terra-money/docs/pull/153>
    [df9]: <https://docs.terra.money/How-to/Manage-a-Terra-validator/Set-up-validator.html#requirements>
-   
+   [df10]: <https://github.com/terra-money/validator-profiles/blob/master/validators/terravaloper1qqu376azltyc5wnsje5qgwru5mtj2yqdhar97v/README.md>
+   [df11]: <https://youtu.be/_NrSWLQsDL4
+   [df12]: <https://github.com/cjerv/Validator-Profile/blob/769632f2d5d2f390d3b56499d72f51742912a90c/README.md>
    
    
    [Ace Editor]: <http://ace.ajax.org>
