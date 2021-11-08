@@ -185,7 +185,7 @@ To do list:
 
 While this might have gone slightly over the 2-3 hours specified, I felt that sharing my thought process and documenting how I completed the interview task would allow you to see how I could create value for Terraform Labs.  The worst case scenario is this document ends up on some lunchroom wall, or a blog titled "How Not to Interview".
 
-I will acknowledge that I currently don't have any coding ability. What I do have is a strong desire to grow, a keen curiosity, a willingness to be learn, and understanding that I will be wrong. I have no problem being the dumbest guy in the room, as it allows me to grow.
+I will acknowledge that I currently don't have any coding ability. What I do have is a strong desire to grow, a keen curiosity, a willingness to be learn, and understanding that I will be wrong. I have no problem being the dumbest guy in the room, as it allows me to evolve.
 
 If we reflect back to the Role Description, and the documentation on  [docs.terra.money/How-to/Manage-a-Terra-validator/Set-up-validator][df9], I know I can complete these objectives:
 >Develop a short term goal, and be held accountable to it’s completion. Successful, or unsuccessful.
