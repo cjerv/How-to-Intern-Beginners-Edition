@@ -175,9 +175,9 @@ Still need to figure out how to resize photos...
 To do list:
 1) Purchase a domain name from gandi.net - wagbl.io is available for $32
 2) Set up a custom domain email address in Protonmail
-3) get a twitter handle with the new email info@wagbl.io
-4) get a discord handle
-5) Setup a medium page
+3) Get a Twitter handle with the new email info@wagbl.io
+4) Get a Discord handle
+5) Setup a Medium page
 
 
 
@@ -197,7 +197,7 @@ If we reflect back to the Role Description, and the documentation on  [docs.terr
 
 One of the biggest skills you learn while flying is the ability to communicate with people.  Nearly every flight at a large airline could you meet someone new. We are tasked with taking the aircraft to its destination safely, legally, and efficiently.  My co-pilots could be from nearly any country, range from just past 20 to 65 in age, and might not speak english as a native language. This will allow me to assist the Public Relations Team and Validator Relations Team, and hopefully this document demonstrates a rough draft of the first part of my future public course!
   
-I'll finish off by saying that I am obviously a strong believer in Terraform Labs and the potential that it has.  The more content I consume, the more understand the potential opportunities. I am an active staker of LUNA, hold UST, and have been using Anchor Protocol.  I'm also going through the white papers of many of the new protocols being released and interacting with their apps. I am looking forward to using some of the ones that will make my holdings more liquid, more valuable, more decentralized, and more functional. 
+I'll finish off by saying that I am obviously a strong believer in Terraform Labs and the potential that it is creating.  The more information I consume, the more understand the potential opportunities. I am an active staker of LUNA, hold UST, and have been using Anchor Protocol.  I'm also going through the white papers of many of the new protocols being released and interacting with their apps. I am looking forward to using some of the ones that will make my holdings more decentralized, more liquid, more valuable, and more functional. 
 
 Being able to take on this project will allow me to grow my own knowledge and distill the experience and learnings into something that I could share.
 
