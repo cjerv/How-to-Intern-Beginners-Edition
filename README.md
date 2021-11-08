@@ -145,6 +145,8 @@ So back to YouTube to find a less complicated explaination of a Pull Request.
 ![2021-11-08 (1)](https://user-images.githubusercontent.com/93710516/140792213-4b0c77f7-dce4-49d6-81a5-5cbaf0f03880.png)
 
 
+
+
 ### The Pull Request V3... 
 
 I've decided to setup a Validator profile
@@ -157,20 +159,18 @@ Select the "copy raw contents" link
 
 In your own file, paste the data and edit! Easy
 
-
-![2021-11-09 (9)](https://user-images.githubusercontent.com/93710516/140791888-ad235e19-0cc2-4c35-84b3-2b55b175d356.png)
-
-You could also follow the detailed steps listed at the bottom of this page - [github.com/terra-money/validator-profiles][df10]
-
-
-
 [validator profile - Lets Be Legends][df12]
-
 
 
 ![2021-11-09 (10)](https://user-images.githubusercontent.com/93710516/140794454-4c150269-b34c-474b-97a8-83cfecfc4f92.png)
 
+
+You could also follow the detailed steps listed at the bottom of this page - [github.com/terra-money/validator-profiles][df10]
+
+
 Still need to figure out how to resize photos...
+
+
 
 To do list:
 1) Purchase a domain name from gandi.net - wagbl.io is available for $32
@@ -245,8 +245,8 @@ Some of the original links from Dillinger.io that I'll leave for future referenc
 - [Breakdance](https://breakdance.github.io/breakdance/) - HTML to Markdown converter
 - [jQuery] - duh
 
-And of course Dillinger itself is open source with a [public repository][dill]
- on GitHub.
+
+And of course Dillinger itself is open source with a [public repository][dill] on GitHub.
 
 
 
