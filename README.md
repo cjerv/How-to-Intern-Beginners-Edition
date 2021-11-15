@@ -55,7 +55,7 @@ figured it out...
 
 
 
-Shortly after Chinese New Year, the Hong Kong public stopped travelling due to memories of SARS, and the government imposing restictions, resulting in Cathay and Dragonair parking aircraft and grounding many of its pilots and cabin crew.
+Shortly after Chinese New Year, the Hong Kong public stopped travelling due to memories of SARS, and the government imposing restrictions, resulting in Cathay and Dragonair parking aircraft and grounding many of its pilots and cabin crew.
 
 After wearing out my Xbox controller playing COD, I began devoting more time to investing properly, trying to learn how to trade futures [(Thanks Sven)][df6], trying to expand my Cantonese, and consuming [Real Vision][df5] content.
 
@@ -138,7 +138,7 @@ I can't see there being any "good first issues" for me anytime soon.  I've also 
 
 V1 and V2 were far too complicated, messy, and amateur. This whole "learning as you go" program is probably wearing out anyone who has a clue what they are doing...
 
-So back to YouTube to find a less complicated explaination of a Pull Request.
+So back to YouTube to find a less complicated explanation of a Pull Request.
 
 [Youtube - The Coding Train - 1.3: Forks and Pull Requests - Git and GitHub for Poets][df11]
 
@@ -152,7 +152,7 @@ So back to YouTube to find a less complicated explaination of a Pull Request.
 I've decided to setup a Validator profile
 
 From the Terra Money Validator profiles link [github.com/terra-money/validator-profiles][df10] select a profile that you want to copy. 
-I've choosen the Terra-Firma page.
+I've chosen the Terra-Firma page.
 Select the "copy raw contents" link
 
 ![2021-11-09 (6)](https://user-images.githubusercontent.com/93710516/140789271-8477b655-07ff-4224-8cb9-e17994269610.png)
